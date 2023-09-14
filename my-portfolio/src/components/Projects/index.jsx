@@ -9,13 +9,13 @@ const projects = [
     },
     {
       title: 'Code Quiz',
-      description: "a code quiz application using HTML, CSS, and Javascript",
+      description: "A code quiz application using HTML, CSS, and Javascript",
       imageSrc: 'path-to-image2.jpg',
       readmeLink: 'https://github.com/Shabnamfazly/Week-4-Code-Quiz',
     },
     {
         title: 'Workday scheduler',
-        description: 'a workday scheduler using jquery and APIs that saves data to the local storage for the purpose of allowing the user manage their time effectively.',
+        description: 'A workday scheduler using jquery and APIs that saves data to the local storage for the purpose of allowing the user manage their time effectively.',
         imageSrc: 'path-to-image1.jpg',
         readmeLink: 'https://github.com/Shabnamfazly/Week-5-Scheduler',
       },

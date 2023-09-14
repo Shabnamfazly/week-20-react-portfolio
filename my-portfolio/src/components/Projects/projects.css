@@ -1,0 +1,26 @@
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .project-card {
+    border: 1px solid pink;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .project-card img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .project-card h3 {
+    margin: 0;
+  }
+  
+  .project-card p {
+    margin: 10px 0;
+  }

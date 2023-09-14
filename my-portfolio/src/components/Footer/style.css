@@ -1,0 +1,17 @@
+footer {
+    background-color:  hotpink;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: purple;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
